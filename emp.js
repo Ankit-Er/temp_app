@@ -1,3 +1,3 @@
 var f = prompt("are you employee")
-if (f === 'yes')
+if (f === 'y')
     console.log('hello my employee...')
